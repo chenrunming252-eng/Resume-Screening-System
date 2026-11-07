@@ -1,0 +1,12 @@
+ast_serialize-0.13.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+ast_serialize-0.13.1.dist-info/METADATA,sha256=oBjEC0Ghp01I0BYogZZnKzTegZFovkULF5exR3UnNCI,1411
+ast_serialize-0.13.1.dist-info/RECORD,,
+ast_serialize-0.13.1.dist-info/WHEEL,sha256=NiF0aLXI-rcuwgWgjHBi-oFs9OeTC5eKIS-UyeH0KM0,123
+ast_serialize-0.13.1.dist-info/licenses/LICENSE,sha256=keF0kWVlHyrUBfFTOpIfyNXLDeL9iKS4IJCotXG1WY0,1308
+ast_serialize-0.13.1.dist-info/licenses/crates/LICENSE,sha256=95gEbzNbTITchRIkruuKlrah63DwLwWOhguwDZ11Ucw,21161
+ast_serialize-0.13.1.dist-info/sboms/mypy_parser.cyclonedx.json,sha256=R1bqy3BOEqLhjYtWa_j8iX1GikVjuqwwmZq5xvyGRv0,115549
+ast_serialize/__init__.py,sha256=mXw0A2FKxBSTePe9oon42XOGM80x6EzbnNJWoTn_Cac,135
+ast_serialize/__init__.pyi,sha256=MJ3I1EMr_3YO7QXNy4nYZdlHwkcajeSbbWwkprrI30A,1083
+ast_serialize/__pycache__/__init__.cpython-315.pyc,,
+ast_serialize/ast_serialize.pyd,sha256=zCPcAhGL0RCMzW_K0w_pg8DFEeE12sIIPBpL1K51xF8,2563072
+ast_serialize/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
